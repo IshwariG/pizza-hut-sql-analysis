@@ -2,11 +2,13 @@
 📌 Objective
 Analyze Pizza Hut sales data to uncover revenue trends, peak ordering hours, top-performing pizzas, and category-wise performance using MySQL.
 
+
 📂 Dataset
-The dataset consists of 4 tables:
-TableDescriptionordersOrder ID, date and time of each orderorder_detailsPizza ID and quantity per orderpizzasPizza size and pricepizza_typesPizza name, category and ingredients
+
+The dataset consists of 4 tables:  orders, order_details, pizzas, pizza_types
 
 Total Orders: 21,350+
+
 Time Period: 2015
 
 
@@ -17,6 +19,8 @@ MySQL Workbench
 
 
 📊 Questions Solved
+
+
 🔹 Basic
 
 Q1: Total number of orders placed
@@ -30,7 +34,9 @@ Q4: Most common pizza size ordered
 Q5: Top 5 most ordered pizza types
 
 
+
 🔸 Intermediate
+
 
 Q6: Total quantity ordered per pizza category
 
@@ -44,6 +50,7 @@ Q10: Top 3 pizza types by total revenue
 
 
 🔺 Advanced
+
 
 Q11: Revenue contribution (%) by pizza category
 
